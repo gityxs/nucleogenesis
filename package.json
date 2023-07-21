@@ -1,0 +1,60 @@
+{
+  "name": "nucleogenesis",
+  "version": "2.8.2",
+  "description": "Chemistry and particle physics based incremental idle game",
+  "keyword": "incremental idle chemistry game physics particles elements",
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/angarg12/nucleogenesis/issues",
+    "email": "angarg12@gmail.com"
+  },
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angarg12/nucleogenesis.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "bower": "^1.8.14",
+    "del": "^6.0.0",
+    "gulp-bower": "^0.0.15",
+    "gulp-cache": "^1.1.3",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-codeclimate-reporter": "^1.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-load-plugins": "^2.0.7",
+    "gulp-protractor": "^4.1.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-run": "^1.7.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-usemin": "^0.3.30",
+    "istanbul": "^0.4.5",
+    "jasmine": "^4.1.0",
+    "jasmine-core": "^4.1.0",
+    "jshint": "^2.13.4",
+    "jsonfile": "^6.1.0",
+    "karma": "^6.3.19",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-firefox-launcher": "^2.1.0",
+    "karma-jasmine": "^5.0.0",
+    "karma-jasmine-jquery": "^0.1.1",
+    "lodash.template": "^4.5.0",
+    "molecular-parser": "github:jagill/node-molecular-parser",
+    "node-natural-sort": "^0.8.7",
+    "run-sequence": "^2.2.1",
+    "uglify-es": "^3.3.9"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "npm": "^8.9.0"
+  }
+}
